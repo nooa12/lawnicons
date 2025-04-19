@@ -38,8 +38,6 @@
   <item drawableIgnore="true" component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <item drawableIgnore="true" component="ComponentInfo{com.transsion.calendar/com.android.calendar.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <!-- Lawnicons -->
-  <item component="ComponentInfo{fi.digia.suomi112/fi.digia.suomi112.MainActivity}" drawable="_112_suomi" name="112 Suomi" />
-  
   <item component="ComponentInfo{com.arabiait.belal/com.arabiait.belal.MainActivity}" drawable="bilal" name=" بلال ~~ Bilal" />
   <item component="ComponentInfo{fonts.mono.oneui_2_0/fonts.mono.oneui_2_0.MainActivity}" drawable="mono" name="#mono" />
   <item component="ComponentInfo{fonts.mono.oneui_2_0/fonts.mono.oneui_2_0.MonoInstallerActivity}" drawable="mono" name="#mono" />
@@ -52,6 +50,8 @@
   <item component="ComponentInfo{com.a10minuteschool.tenminuteschool/com.a10minuteschool.tenminuteschool.java.splash_screen.SplashActivity}" drawable="_10_minute_school" name="10 Minute School" />
   <item component="ComponentInfo{com.media720.games2020/com.media720.games2020.presentation.gamelist.redesign.GameListActivity2}" drawable="_100_plus_offline_games" name="100+ Offline Games" />
   <item component="ComponentInfo{dev.lonami.klooni/dev.lonami.klooni.AndroidLauncher}" drawable="_1010_klooni" name="1010! Klooni" />
+  <item component="ComponentInfo{fi.digia.suomi112/fi.digia.suomi112.MainActivity}" drawable="_112_suomi" name="112 Suomi" />
+  <item component="ComponentInfo{fi.digia.suomi112/fi.digia.suomi112.MainActivity}" drawable="_112_suomi" name="112 Suomi" />
   <item component="ComponentInfo{com.twelve.club/com.twelve.club.appUseCases.common.SplashActivity}" drawable="_12_club" name="12% Club" />
   <item component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.main.TmriNewActivity}" drawable="_12123" name="12123" />
   <item component="ComponentInfo{com.mfcloudcalculate.networkdisk/com.mfcloudcalculate.networkdisk.activity.SplashActivity}" drawable="_123_cloud_drive" name="123云盘 ~~ 123 Cloud Drive" />
@@ -5477,8 +5477,8 @@
   <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.Activity.MainActivity}" drawable="infinity_for_reddit" name="Infinity" />
   <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.MainActivity}" drawable="infinity_for_reddit" name="Infinity" />
   <item component="ComponentInfo{ml.docilealligator.infinityforreddit.patreon/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity_for_reddit" name="Infinity" />
-  <item component="ComponentInfo{ml.docilealligator.infinityforreddit.plus/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity_for_reddit" name="Infinity+" />
   <item component="ComponentInfo{com.balysv.loop/com.balysv.loop.SplashScreenActivity}" drawable="infinity_loop" name="Infinity Loop" />
+  <item component="ComponentInfo{ml.docilealligator.infinityforreddit.plus/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity_for_reddit" name="Infinity+" />
   <item component="ComponentInfo{ro.stbsa/ro.routeplanner.ui.container.ContainerScreen}" drawable="info_transport_bucuresti" name="Info Transport București" />
   <item component="ComponentInfo{com.infomaniak.drive/com.infomaniak.drive.ui.LaunchActivity}" drawable="infomaniak_kdrive" name="Infomaniak kDrive" />
   <item component="ComponentInfo{com.infomaniak.sync/at.bitfire.davdroid.ui.AccountsActivity}" drawable="infomaniak_ksync" name="Infomaniak kSync" />
@@ -13846,9 +13846,9 @@
   <item component="ComponentInfo{com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.YahooMail}" drawable="yahoo_mail" name="Yahoo Mail" />
   <item component="ComponentInfo{com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MessageList}" drawable="yahoo_mail" name="Yahoo Mail" />
   <item component="ComponentInfo{com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity}" drawable="yahoo_mail" name="Yahoo Mail" />
+  <item component="ComponentInfo{com.yahoo.mobile.client.android.weather/com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity}" drawable="yahoo_weather" name="Yahoo Weather" />
   <item component="ComponentInfo{jp.co.yahoo.android.yjtop/jp.co.yahoo.android.yjtop.YJTopActivity}" drawable="yahoo_japan" name="Yahoo! JAPAN" />
   <item component="ComponentInfo{jp.co.yahoo.android.news/jp.co.yahoo.android.news.activity.SplashActivity}" drawable="yahoo_news" name="Yahoo!ニュース ~~ Yahoo! News" />
-  <item component="ComponentInfo{com.yahoo.mobile.client.android.weather/com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity}" drawable="yahoo_weather" name="Yahoo Weather" />
   <item component="ComponentInfo{jp.co.yahoo.android.weather.type1/jp.co.yahoo.android.weather.type1.WeatherDetail}" drawable="yahoo_weather_japan" name="Yahoo天気 ~~ Yahoo Weather" />
   <item component="ComponentInfo{com.yandex.yango/ru.yandex.taxi.activity.MainActivity}" drawable="yango" name="Yango" />
   <item component="ComponentInfo{pl.neptis.yanosik.mobi.android/pl.neptis.yanosik.mobi.android.common.ui.activities.launcher.LauncherActivity}" drawable="yanosik" name="Yanosik" />
