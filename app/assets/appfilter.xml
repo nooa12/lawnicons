@@ -38,6 +38,8 @@
   <item drawableIgnore="true" component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <item drawableIgnore="true" component="ComponentInfo{com.transsion.calendar/com.android.calendar.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <!-- Lawnicons -->
+  <item component="ComponentInfo{fi.digia.suomi112/fi.digia.suomi112.MainActivity}" drawable="_112_suomi" name="112 Suomi" />
+  
   <item component="ComponentInfo{com.arabiait.belal/com.arabiait.belal.MainActivity}" drawable="bilal" name=" بلال ~~ Bilal" />
   <item component="ComponentInfo{fonts.mono.oneui_2_0/fonts.mono.oneui_2_0.MainActivity}" drawable="mono" name="#mono" />
   <item component="ComponentInfo{fonts.mono.oneui_2_0/fonts.mono.oneui_2_0.MonoInstallerActivity}" drawable="mono" name="#mono" />
